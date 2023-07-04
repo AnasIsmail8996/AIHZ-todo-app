@@ -1,0 +1,26 @@
+.center-div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 55pxpx; /* Adjust the height as per your requirement */
+    margin-top: 1%;
+    padding: 2%;
+  /* }
+
+  input[type="text"] {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+
+ 
+   input[type="text"]:focus {
+    outline: none; /* Removes the default outline */
+     border-color: blue; /* Changes the border color on focus */
+     box-shadow: 2px 4px 5px blue; /* Adds a box shadow on focus */
+   } 
+
+  .todo-input{
+    border: none;
+    background-color: transparent;
+  }
